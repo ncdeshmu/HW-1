@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "DataScienceStatistics.html",
+    "href": "DataScienceStatistics.html",
+    "title": "",
+    "section": "",
+    "text": "According to an online source, both Data Science and Statistics are careers/professions that utilizes the concepts of mathematics, technology, business, computer programming, data, and communication, along with data, to tackle real-world problems.\nHowever, there are some differences between a “Data Scientist” and a “Statisti cian”. According to a source called “Masters in Data Science”, it explicilty states that data science involves the “collection/gathering, organization, analysis, and visualization of the data”. While, statisticians formulate or create “mathematical models” to describe relationships between outcomes, and predict based on the relationships.\nhttps://www.mastersindatascience.org/learning/data-science-vs-statistics/\nI am satisfied with having careers in both areas & disciplines.\n\ny &lt;- density(iris$Petal.Width)\n\n\nclass(y)\n\n[1] \"density\"\n\ntypeof(y)\n\n[1] \"list\"\n\nstructure(y)\n\n\nCall:\n    density.default(x = iris$Petal.Width)\n\nData: iris$Petal.Width (150 obs.);  Bandwidth 'bw' = 0.2518\n\n       x                 y            \n Min.   :-0.6555   Min.   :0.0005219  \n 1st Qu.: 0.3222   1st Qu.:0.0830968  \n Median : 1.3000   Median :0.2650517  \n Mean   : 1.3000   Mean   :0.2551522  \n 3rd Qu.: 2.2778   3rd Qu.:0.4190136  \n Max.   : 3.2555   Max.   :0.4975026"
+  }
+]

@@ -1,0 +1,26 @@
+According to an online source, both Data Science and Statistics are 
+careers/professions that utilizes the concepts of mathematics, technology, 
+business, computer programming, data, and communication, along with data, to 
+tackle real-world problems.
+
+However, there are some differences between a "Data Scientist" and a "Statisti
+cian". According to a source called "Masters in Data Science", it explicilty 
+states that data science involves the "collection/gathering, organization, 
+analysis, and visualization of the data". While, statisticians formulate or 
+create "mathematical models" to describe relationships between outcomes, and
+predict based on the relationships.
+
+https://www.mastersindatascience.org/learning/data-science-vs-statistics/
+
+I am satisfied with having careers in both areas & disciplines. 
+
+```{r}
+y <- density(iris$Petal.Width)
+```
+
+```{r}
+class(y)
+typeof(y)
+structure(y)
+```
+
